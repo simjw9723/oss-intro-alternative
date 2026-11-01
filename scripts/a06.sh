@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir -p results
 awk '$8 == "srv1" {
 	sum += $7;
 	count++;
@@ -12,4 +13,4 @@ END {
 		print "합계: 0.00";
 		print "평균: 0.00";
 	}
-}' data/access.log
+}' data/access.log >results/a06.txt
