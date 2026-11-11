@@ -1,0 +1,14 @@
+합계 52
+-rwxr-x--- 1 ubuntu ubuntu 145 10월 19 00:33 a01.sh
+-rwxr-x--- 1 ubuntu ubuntu  94 10월 19 00:22 a02.sh
+-rwxr-x--- 1 ubuntu ubuntu 117 10월 19 00:24 a03.sh
+-rwxr-x--- 1 ubuntu ubuntu  76 10월 19 00:25 a04.sh
+-rwxr-x--- 1 ubuntu ubuntu 218 11월 11 21:43 a05.sh
+-rwxr-x--- 1 ubuntu ubuntu 277 11월 11 21:43 a06.sh
+-rwxr-x--- 1 ubuntu ubuntu 130 11월 11 21:43 a07.sh
+-rwxr-x--- 1 ubuntu ubuntu 404 11월 11 21:43 a08.sh
+-rwxr-x--- 1 ubuntu ubuntu 117 11월 11 21:43 a09.sh
+-rwxr-x--- 1 ubuntu ubuntu 174 11월 11 21:43 a10.sh
+-rwxr-x--- 1 ubuntu ubuntu  86 11월 11 21:49 a11.sh
+-rwxr-x--- 1 ubuntu ubuntu 182 11월 11 22:09 a12.sh
+-rwxr-x--- 1 ubuntu ubuntu  84 11월 11 22:18 a13.sh
