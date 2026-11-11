@@ -11,4 +11,8 @@ bash scripts/a07.sh
 bash scripts/a08.sh
 bash scripts/a09.sh
 bash scripts/a10.sh
-echo "Part A (A01~A10) execution completed!"
+bash scripts/a11.sh
+bash scripts/a12.sh
+bash scripts/a13.sh
+bash scripts/a14.sh
+echo "Part A (A01~A14) execution completed!"
